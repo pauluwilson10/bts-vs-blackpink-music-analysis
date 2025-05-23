@@ -4,7 +4,7 @@
 # In[6]:
 
 
-pip install spotipy google-api-python-client tweepy matplotlib pandas seaborn
+
 
 
 # In[7]:
