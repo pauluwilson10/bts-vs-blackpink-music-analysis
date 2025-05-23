@@ -64,7 +64,7 @@ These differences reflect not only their unique marketing approaches but also th
 ![YouTube Subscribers](youtube.png)
 
 ### 🔍 Overall Summary Chart
-![Summary Chart](ifinal.png)
+![Summary Chart](final.png)
 
 
 ## 📌 Author
