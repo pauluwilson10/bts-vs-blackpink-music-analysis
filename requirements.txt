@@ -1,0 +1,7 @@
+spotipy
+google-api-python-client
+tweepy
+matplotlib
+pandas
+seaborn
+streamlit
